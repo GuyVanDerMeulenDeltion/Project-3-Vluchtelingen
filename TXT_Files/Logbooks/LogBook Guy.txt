@@ -1,0 +1,5 @@
+FORMAT: - type of work | time spent in session | Date
+
+- LogBook Guy -
+
+- Created a repository, made rules and a start for an assetlist | 60 minutes | 01-02-2017

@@ -1,0 +1,36 @@
+- 3ds Max -
+
+1. Always apply materials to the objects in the scene with a name that fits that specific object.
+2. Always reset pivot after you have applied changes to the model.
+3. Always give every part of the model a correct name that suits it.
+4. Always reset XPos after you have scaled the object, if you have worked in a larger scale previously, be sure to change it to a realistic scale later on.
+5. Everytime you export an model, be sure to export the Smoothing groups, turbosmooth (if used) and tri's aswell.
+6. Not neccesarily but try to keep the model under 5.000 - 10.000 polygons.
+7. Everytime you have finished the model be sure to check for Ngons just to be sure.
+8. Try to keep the vertexes in your model straightforward and try not to make a mess of it.
+9. Try to use as many quads as possible, this helps when you are trying to select multiple lines at once.
+10. Be sure to deliver the model before the deadline arises.
+
+- Unity - BE SURE TO DO THIS ONCE YOU HAVE STARTED ANOTHER PROJECT! Edit ->	Project Settings -> Editor -> Visiblemetafiles and Force Text
+										Light = Edit -> Project Settings -> Player -> Rendering Path = Deferred & Color Space = linear - 
+
+1. Everytime you add something to the Unity Scene, be sure to give it a correct name and put it in the previously specified map where it belongs.
+2. Everytime you make scripts, be sure to mark out the code that you are working on, this is to prevent any errors and misunderstood events later on.
+
+- C# -
+
+1. Don't hardcode anything.
+2. Don't make a mess out of your code.
+3. Keep everything tidy and organised.
+4. Be sure to use a GameManager for every core function thats added to the scene/Project
+
+- AssetsNaming -
+
+1. Animations: ANIM_function
+2. SceneryModels: SCENMOD_nameObject
+3. CharacterModels: CHARMOD_nameChar
+4. Unwrap: UWV_name
+5. Substance Painter: SP_objectName
+6. Textures: TEX_Type_nametexture
+7. Scripts: Class_Scriptfunction/name
+8. Objects (In unity): OBJ_nameofObject

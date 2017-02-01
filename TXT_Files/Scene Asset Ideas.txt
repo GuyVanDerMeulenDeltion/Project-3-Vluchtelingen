@@ -1,0 +1,6 @@
+If there are 1 or more names, that means the idea is accepted and will be added to the assetlist. And add the name beforehand of who made it.
+
+EXAMPLE: - Guy - Obj_Table - (dd/mm/yy) (hour:minutes) - (Thomas (date), Joey(date))
+
+- Actual List -
+
