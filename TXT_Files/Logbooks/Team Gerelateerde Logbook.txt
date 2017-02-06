@@ -1,0 +1,7 @@
+FORMAT: - type of work | time spent total | Start Date
+
+- LogBook Groep (Joey, Guy, Thomas) -
+
+
+- Created a repository, made rules and a start for an assetlist | 60 minutes | 01-02-2017
+- Doelgroepen Brainstorm | 45 minutes | 06-02-17

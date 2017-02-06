@@ -1,5 +1,5 @@
-FORMAT: - type of work | time spent in session | Date
+FORMAT: - type of work | time spent total | Start Date
 
 - LogBook Guy -
 
-- Created a repository, made rules and a start for an assetlist | 60 minutes | 01-02-2017
+- AI Script | 2 Hours And 32 Minutes | 05-02-17
