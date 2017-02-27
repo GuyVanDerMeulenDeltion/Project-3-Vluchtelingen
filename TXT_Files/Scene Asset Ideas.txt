@@ -1,9 +1,10 @@
 If there are 1 or more names, that means the idea is accepted and will be added to the assetlist. And add the name beforehand of who made it.
 
 EXAMPLE: - Guy - Obj_Table - (dd/mm/yy) (hour:minutes) - (Thomas (date), Joey(date))
-
+ **  means that the idea is accepted.
 - Actual List -
 
 Thomas - Obj_TrashCan - (21-2-2017) (17:36) - ()
 Thomas - Obj_Bottles - (21-2-2017) ( 17:37) - ()
 Thomas - Obj_NewsPapers - (21-2-2017) (17:37) - ()
+**Thomas - Obj_SnowMan - (27-2-2017) (08:51) - (Guy (27-2-2017), Joey (27-2-2017))

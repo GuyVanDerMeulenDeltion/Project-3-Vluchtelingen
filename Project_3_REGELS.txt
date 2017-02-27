@@ -34,3 +34,6 @@
 6. Textures: TEX_Type_nametexture
 7. Scripts: Class_Scriptfunction/name
 8. Objects (In unity): OBJ_nameofObject
+9. Sprites: Spr_spritename
+10. Audio: AUD_soundname
+11. SCE_unityscenename_number
